@@ -7,7 +7,4 @@ export default defineConfig({
     outDir: 'dist',
   },
   publicDir: 'public',
-  server: {
-    open: true,
-  },
 });
